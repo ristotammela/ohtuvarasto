@@ -1,1 +1,2 @@
 Lisään rivin
+Lisään rivin toisesta repo-kloonista.
