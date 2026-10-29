@@ -2,4 +2,4 @@
 Ohjelmistotuotanto JYU 2026
 
 
-https://github.com/ristotammela/ohtuvarasto/actions/workflows/main.yml/badge.svg
+[![CI](https://github.com/ristotammela/ohtuvarasto/actions/workflows/main.yml/badge.svg)](https://github.com/ristotammela/ohtuvarasto/actions/workflows/main.yml)
