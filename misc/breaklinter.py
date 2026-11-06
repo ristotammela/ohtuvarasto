@@ -1,3 +1,7 @@
+## File for testing Pylint configuration. 
+## How to test: uv run pylint misc/breaklinter.py
+
+
 # Pylint C0301 (line-too-long): this comment intentionally exceeds the 80-character configured limit.
 
 
